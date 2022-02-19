@@ -1,0 +1,270 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.28f1 (f5400f52e03f) revision 16072719'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 16167 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/thoma/Carlevel/Main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56694
+Successfully changed project path to: C:/Users/thoma/Carlevel/Main
+C:/Users/thoma/Carlevel/Main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 101.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.28f1 (f5400f52e03f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/thoma/Carlevel/Main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8083 MB
+    Driver:   27.20.100.9565
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003953 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 101.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1189ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (920ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (290ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (365ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (102ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (172ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 103.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.254 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2255ms)
+		BeginReloadAssembly (293ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1837ms)
+			LoadAssemblies (190ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (590ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (725ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (103ms)
+				BeforeProcessingInitializeOnLoad (146ms)
+				ProcessInitializeOnLoadAttributes (419ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2623.
+Total: 2.530700 ms (FindLiveObjects: 0.114700 ms CreateObjectMapping: 0.039600 ms MarkObjects: 2.238700 ms  DeleteObjects: 0.137000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(3f5f548cb9399c348b9a46a922f385b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(3f5f548cb9399c348b9a46a922f385b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc06f0f17c5072098ae1d9af2f8712a') in 0.013552 seconds 
+  Import took 0.016190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1782.155771 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.014304 seconds 
+  Import took 0.024167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.044559 seconds.
+  path: Assets/Sprite Shape Profile.asset
+  artifactKey: Guid(0df3c1b240cf3164abf8780a94c72cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Shape Profile.asset using Guid(0df3c1b240cf3164abf8780a94c72cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44aa7b2553c4fdafc1b337916c164999') in 0.078620 seconds 
+  Import took 0.084518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.777814 seconds.
+  path: Assets/Sprites/Terrain GIMP.png
+  artifactKey: Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Terrain GIMP.png using Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92cc9a8d86e5289540cf0741a1c05182') in 0.166014 seconds 
+  Import took 0.171904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 370.103988 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png
+  artifactKey: Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png using Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85171396a31dec04d847b6c2bf447043') in 0.032515 seconds 
+  Import took 0.041308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 261.250662 seconds.
+  path: Assets/Sprites/Grass GIMP.png
+  artifactKey: Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Grass GIMP.png using Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1385c67dbd6c1067366b13805c9bdacf') in 0.032828 seconds 
+  Import took 0.043235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 501.037155 seconds.
+  path: Assets/Sprites/Grass GIMP.png
+  artifactKey: Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Grass GIMP.png using Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64776974933c531dbd3ebb9ad76e7441') in 0.041451 seconds 
+  Import took 0.052614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.661136 seconds.
+  path: Assets/Sprites/Grass GIMP.png
+  artifactKey: Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Grass GIMP.png using Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a4d72ddf7145949821b73fa1c9faa1') in 0.022326 seconds 
+  Import took 0.028803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 328.588873 seconds.
+  path: Assets/Sprites/Sprite Shape Profile.asset
+  artifactKey: Guid(5d54dac420bf69f43824249d89bd805d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite Shape Profile.asset using Guid(5d54dac420bf69f43824249d89bd805d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e4d8d842400968000efd250970bb6c') in 0.009953 seconds 
+  Import took 0.020294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 224.370670 seconds.
+  path: Assets/Sprites/Terrain GIMP.png
+  artifactKey: Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Terrain GIMP.png using Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95a931c3e9b8b82f6fa1ec552a8ea00') in 0.051896 seconds 
+  Import took 0.062754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.672789 seconds.
+  path: Assets/Sprites/Grass GIMP.png
+  artifactKey: Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Grass GIMP.png using Guid(84045148bc8eac74cb6dca5f729a96ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e551525440e8034690146e63e221e0') in 0.024389 seconds 
+  Import took 0.030884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 405.860980 seconds.
+  path: Assets/Sprites/Terrain GIMP.png
+  artifactKey: Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Terrain GIMP.png using Guid(96bdc8c43fea2474c8177162a45c3247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb252832ca4b9244ccb33d85e5b9e52c') in 0.078562 seconds 
+  Import took 0.088967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 456.445648 seconds.
+  path: Assets/Sprites/Terrain NEW GIMP.png
+  artifactKey: Guid(d43b2a5055a54da409d0751639724591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Terrain NEW GIMP.png using Guid(d43b2a5055a54da409d0751639724591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0a2daa25108d50b2770ff17978f4f4') in 0.036711 seconds 
+  Import took 0.046270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.616331 seconds.
+  path: Assets/Sprites/Sprite Shape Profile.asset
+  artifactKey: Guid(123b919ed3a979b4cbe986822a91e5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite Shape Profile.asset using Guid(123b919ed3a979b4cbe986822a91e5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7247b0bab6780f3496ad927122b86b8') in 0.011007 seconds 
+  Import took 0.018821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.398699 seconds.
+  path: Assets/Sprites/Terrain NEW GIMP.png
+  artifactKey: Guid(d43b2a5055a54da409d0751639724591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Terrain NEW GIMP.png using Guid(d43b2a5055a54da409d0751639724591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffbc094b0d32fa84d8db7259f192d74') in 0.030042 seconds 
+  Import took 0.045776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1053.533029 seconds.
+  path: Assets/Sprites/Wheel GIMP 1.png
+  artifactKey: Guid(78854cd35452ee749803bbdfb4c7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Wheel GIMP 1.png using Guid(78854cd35452ee749803bbdfb4c7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb656865f22ac970a65b01370b48f8b6') in 0.055208 seconds 
+  Import took 0.063234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.766520 seconds.
+  path: Assets/Sprites/Wheel GIMP.png
+  artifactKey: Guid(78854cd35452ee749803bbdfb4c7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Wheel GIMP.png using Guid(78854cd35452ee749803bbdfb4c7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6370dec01fc6dfb5c5124b09bd5545b9') in 0.051396 seconds 
+  Import took 0.060842 seconds .
+
